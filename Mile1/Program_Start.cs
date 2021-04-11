@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mile1
 {
-    class Program
+    class Program_Start
     {
         static void Main(string[] args)
         {

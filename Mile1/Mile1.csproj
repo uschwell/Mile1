@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="CSV_ReadWrite.cs" />
+    <Compile Include="Program_Start.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Server.cs" />
+    <Compile Include="Start_Flight.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
